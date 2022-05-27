@@ -99,6 +99,16 @@
           </execution>
         </executions>
       </plugin>
+
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+
+        <configuration>
+          <wait>500</wait>
+          <maxAttempts>240</maxAttempts>
+        </configuration>
+      </plugin>
     </plugins>
   </build>
 
