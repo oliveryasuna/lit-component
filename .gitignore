@@ -1,0 +1,53 @@
+# IntelliJ
+#--------------------------------------------------
+
+/.idea/
+
+/*.iml
+
+# Maven
+#--------------------------------------------------
+
+/addon/target/
+/demo/target/
+
+# Vaadin
+#--------------------------------------------------
+
+/demo/frontend/generated/
+/demo/frontend/index.html
+
+/addon/screenshots/
+
+# Node
+#--------------------------------------------------
+
+/demo/node_modules/
+
+/demo/package.json
+/demo/package-lock.json
+
+/demo/pnpmfile.js
+/demo/pnpm-lock.yaml
+
+# Webpack
+#--------------------------------------------------
+
+/demo/webpack.config.js
+/demo/webpack.generated.js
+
+# TypeScript
+#--------------------------------------------------
+
+/demo/tsconfig.json
+/demo/types.d.ts
+
+# JRebel
+#--------------------------------------------------
+
+rebel.xml
+
+# Miscellaneous
+#--------------------------------------------------
+
+TODO.txt
