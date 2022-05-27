@@ -4,6 +4,8 @@ Model [LitElement](https://lit.dev/) web components with Vaadin.
 
 ## Getting Started
 
+The following example is credited to my 4 y/o son, who has much to learn.
+
 `bear-poker.ts`:
 
 ```typescript
